@@ -3,6 +3,10 @@
 
 ## Live Sites
 * [Earth-C](https://insidetwoworlds.github.io/Documentation/Two%20Worlds/EarthC/)
+* [Dungeons](https://github.com/InsideTwoWorlds/Documentation/blob/main/Two%20Worlds/Dungeons%20readme.txt)
+* [Editor console](https://github.com/InsideTwoWorlds/Documentation/blob/main/Two%20Worlds/Editor%20console.txt)
+* [Maya plugins](https://github.com/InsideTwoWorlds/Documentation/blob/main/Two%20Worlds/Maya%20plugins%20readme.txt)
+* [WhizzEdit](https://github.com/InsideTwoWorlds/Documentation/blob/main/Two%20Worlds/WhizzEdit-manual.txt)
 
 ## Contributing
 
