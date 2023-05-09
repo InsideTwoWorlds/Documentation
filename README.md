@@ -2,7 +2,7 @@
 ![Logo](logo.png)
 
 ## Live Sites
-* [Earth-C](https://insidetwoworlds.github.io/Documentation/Two%20Worlds/EARTHC/)
+* [Earth-C](https://insidetwoworlds.github.io/Documentation/Two%20Worlds/EarthC/)
 
 ## Contributing
 
